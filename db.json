@@ -66,8 +66,8 @@
     {
       "id" : 1,
       "customer_id" : 1,
-      "Date": "1st October 2020",
-      "amout": 29999
+      "date": "1st October 2020",
+      "amount": 29999
     },
     {
       "id" : 2,
@@ -78,20 +78,20 @@
     {
       "id" : 3,
       "customer_id" : 3,
-      "Date": "3rd October 2020",
-      "amout": 29999
+      "date": "3rd October 2020",
+      "amount": 29999
     },
     {
       "id" : 4,
       "customer_id" : 4,
-      "Date": "4th October 2020",
-      "amout": 29999
+      "date": "4th October 2020",
+      "amount": 29999
     },
     {
       "id" : 5,
       "customer_id" : 10,
-      "Date": "5th October 2020",
-      "amout": 29999
+      "date": "5th October 2020",
+      "amount": 29999
     }
 
   ],
