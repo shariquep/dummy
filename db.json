@@ -1,8 +1,130 @@
 {
-  "posts": [
+  "customers": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "textiles.co",
+      "customerID": 1,
+      "address": "plot no: B-88, Gulshan iqbal",
+      "email" : "abc@gmail.com",
+      "phone": "0321-2345212"
+    },{
+      "name": "textiles.co",
+      "customerID": 2,
+      "address": "plot no: B-88, Gulshan iqbal",
+      "email" : "abc@gmail.com",
+      "phone": "0321-2345212"
+    },{
+      "name": "textiles.co",
+      "customerID": 3,
+      "address": "plot no: B-88, Gulshan iqbal",
+      "email" : "abc@gmail.com",
+      "phone": "0321-2345212"
+    },{
+      "name": "textiles.co",
+      "customerID": 4,
+      "address": "plot no: B-88, Gulshan iqbal",
+      "email" : "abc@gmail.com",
+      "phone": "0321-2345212"
+    },{
+      "name": "textiles.co",
+      "customerID": 5,
+      "address": "plot no: B-88, Gulshan iqbal",
+      "email" : "abc@gmail.com",
+      "phone": "0321-2345212"
+    },{
+      "name": "textiles.co",
+      "customerID": 6,
+      "address": "plot no: B-88, Gulshan iqbal",
+      "email" : "abc@gmail.com",
+      "phone": "0321-2345212"
+    },{
+      "name": "textiles.co",
+      "customerID": 7,
+      "address": "plot no: B-88, Gulshan iqbal",
+      "email" : "abc@gmail.com",
+      "phone": "0321-2345212"
+    },{
+      "name": "textiles.co",
+      "customerID": 8,
+      "address": "plot no: B-88, Gulshan iqbal",
+      "email" : "abc@gmail.com",
+      "phone": "0321-2345212"
+    },{
+      "name": "textiles.co",
+      "customerID": 9,
+      "address": "plot no: B-88, Gulshan iqbal",
+      "email" : "abc@gmail.com",
+      "phone": "0321-2345212"
+    },{
+      "name": "textiles.co",
+      "customerID": 10,
+      "address": "plot no: B-88, Gulshan iqbal",
+      "email" : "abc@gmail.com",
+      "phone": "0321-2345212"
+    }
+  ],
+  "invoice": [
+    {
+      "invoiceID" : 1,
+      "customerID" : 1,
+      "Date": "1st October 2020",
+      "amout": 29999
+    },
+    {
+      "invoiceID" : 2,
+      "customerID" : 2,
+      "Date": "2nd October 2020",
+      "amout": 29999
+    },
+    {
+      "invoiceID" : 3,
+      "customerID" : 3,
+      "Date": "3rd October 2020",
+      "amout": 29999
+    },
+    {
+      "invoiceID" : 4,
+      "customerID" : 4,
+      "Date": "4th October 2020",
+      "amout": 29999
+    },
+    {
+      "invoiceID" : 5,
+      "customerID" : 10,
+      "Date": "5th October 2020",
+      "amout": 29999
+    }
+
+  ],
+  "products": [
+    {
+      "productID": 1,
+      "name" : "dingdong1",
+      "description": "bubble gum nice",
+      "unitPrice": 1.99 
+    },
+    {
+      "productID": 2,
+      "name" : "dingdong2",
+      "description": "bubble gum good",
+      "unitPrice": 1.99 
+    },
+    {
+      "productID": 3,
+      "name" : "dingdong3",
+      "description": "bubble gum not nice",
+      "unitPrice": 1.99 
+    },
+    {
+      "productID": 4,
+      "name" : "dingdong4",
+      "description": "bubble gum very nice",
+      "unitPrice": 1.99 
+    },
+    {
+      "productID": 5,
+      "name" : "dingdong5",
+      "description": "bubble gum good",
+      "unitPrice": 1.99 
     }
   ],
   "profile": {
