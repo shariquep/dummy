@@ -72,8 +72,8 @@
     {
       "id" : 2,
       "customer_id" : 2,
-      "Date": "2nd October 2020",
-      "amout": 29999
+      "date": "2nd October 2020",
+      "amount": 29999
     },
     {
       "id" : 3,
